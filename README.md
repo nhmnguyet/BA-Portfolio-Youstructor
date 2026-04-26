@@ -4,7 +4,7 @@ What I did in this project
 I followed a step-by-step BA process to make sure the app actually solves the right problems. Here’s a breakdown of my work:
 
 Requirement Elicitation: I started by drafting Q&A sheets to clarify exactly what features were needed. 
-[link(https://docs.google.com/spreadsheets/d/1Ov8LDZIPOaDEauD09Zqo1oHLxqkRR_j_/edit?usp=drive_link&ouid=117334388256851357735&rtpof=true&sd=true)]
+[(https://docs.google.com/spreadsheets/d/1Ov8LDZIPOaDEauD09Zqo1oHLxqkRR_j_/edit?usp=drive_link&ouid=117334388256851357735&rtpof=true&sd=true)]
 
 Documentation (BRD): I put together a Business Requirement Document to define the project scope, including features like class registration, password recovery, and performance levels for instructors.
 [(https://drive.google.com/file/d/152QOUISIA5vV5pG0fUMxU6YnqQpl8X-V/view)]
